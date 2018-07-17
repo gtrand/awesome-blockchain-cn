@@ -124,6 +124,9 @@
 - [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 - [maker](https://makerdao.com/) Dai代币
 
+## 25min 了解以太坊
+- [25min 了解以太坊](https://ethfans.org/posts/Ethereum-in-25-minites-vision-2017-1) 25min 了解以太坊
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
